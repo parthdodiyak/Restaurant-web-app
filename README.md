@@ -40,3 +40,10 @@ This project showcases a modern, responsive design with sections commonly found 
 This project is created for **learning/demo purposes only**.
 For production use, please replace the images and text content with your own resources.
 
+## 📜 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+## 👨‍💻 Author
+GitHub: @Sonudata
+
